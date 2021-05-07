@@ -1,4 +1,4 @@
-### Hi Amar, Hello everyone this is my Github profile. Plz Don't clone any repo.👋
+### Hi Amar 👋
 
 <!--
 **amarpal2001/amarpal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
