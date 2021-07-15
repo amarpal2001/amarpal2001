@@ -1,7 +1,7 @@
 <!-- ###  Hey 👋,  ✨I'm Amarpal Shakya ✨
  -->
  <h1 align="center">Hi 👋, I'm Amarpal Shakya</h1>
-<h3 align="center">A passionate Frontend developer!!</h3>
+<h3 align="center">A Passionate Frontend Developer!!</h3>
 
 <!--
 **amarpal2001/amarpal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
