@@ -1,5 +1,4 @@
 ###  Hey 👋,  ✨I'm Amarpal Shakya ✨
-             A passionate Frontend Developer
 
 
 <!--
