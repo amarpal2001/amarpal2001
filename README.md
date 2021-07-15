@@ -1,4 +1,5 @@
-###  𝐻𝑒𝓎 👋,  ✨ 𝐼'𝓂 𝒜𝓂𝒶𝓇𝓅𝒶𝓁 ✨
+###  Hey 👋,  ✨I'm Amarpal Shakya ✨
+
 
 <!--
 **amarpal2001/amarpal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
