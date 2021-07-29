@@ -2,7 +2,8 @@
  -->
  <h1 align="center">Hi 👋, I'm Amarpal Shakya</h1>
 <h3 align="center">A Passionate Frontend Developer!!</h3>
-
+<p align="center"><img ] src='https://avatars.githubusercontent.com/u/64088871?v=4' alt="v" >
+</p>
 <!--
 **amarpal2001/amarpal2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ✨
